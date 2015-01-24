@@ -24,8 +24,6 @@
 # variant, so that it gets overwritten by the parent (which goes
 # against the traditional rules of inheritance).
 
-TARGET_SPECIFIC_HEADER_PATH := device/xiaomi/mione_plus/include
-
 BOARD_HAVE_XIAOMI_MIONE := true
 
 # Bootloader
